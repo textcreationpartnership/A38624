@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Essay for the raising a national fishery by the poor of England without tax or money that shall imploy and maintain all the poor, and growing poor of this nation for ever, and in less than five yers, totally ease the publick from that greivous burden / humbly address'd to the honourable House of Commons in behalf of the poor of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38624</idno>
+            <idno type="STC">Wing E3282</idno>
+            <idno type="STC">ESTC R31444</idno>
+            <idno type="EEBO-CITATION">11982743</idno>
+            <idno type="OCLC">ocm 11982743</idno>
+            <idno type="VID">51888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1008:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Essay for the raising a national fishery by the poor of England without tax or money that shall imploy and maintain all the poor, and growing poor of this nation for ever, and in less than five yers, totally ease the publick from that greivous burden / humbly address'd to the honourable House of Commons in behalf of the poor of England.</title>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by John Nut ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCC [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 14.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fisheries --  England.</term>
+               <term>Fishery law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51888:1"/>
+            <pb facs="tcp:51888:1"/>
+            <p>AN ESSAY For the raiſing a National Fiſhery BY THE <hi>Poor of England,</hi> WITHOUT <hi>TAX</hi> or <hi>MONEY,</hi> THAT Shall Imploy and Maintain all the Poor, and growing Poor of this Nation for ever, and in leſs than Five Years, totally eaſe the Publick from that grievous Burden.</p>
+            <p>Humbly Addreſs'd to the Honourable Houſe of Commons in behalf of the Poor of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+            <p>Printed and are to be ſold by <hi>John Nut,</hi> near <hi>Stationers-Hall.</hi> MDCC.</p>
+            <p>Price 4 d.</p>
+         </div>
+         <div type="to_the_House_of_Commons">
+            <pb facs="tcp:51888:2"/>
+            <pb facs="tcp:51888:2"/>
+            <head>Moſt Wiſe and Auguſt ASSEMBLY.</head>
+            <p>THE many Groundleſs and Chymerical Projects of this deſigning Age, I ſear, may too juſtly deter the more Prudent part of Mankind from a farther Diſquiſition into Things of this Nature, than the bare Title informs; yet 'twould be too ſevere a Fate that all ſhould undergo that Cenſure without a farther enquiry; for as Light came out of Darkneſs, ſo Truth may be Collected from Errour, and a great Treaſure may lie hid where leaſt expected.</p>
+            <p>I ſhall not preſume to Apologiſe for the Subject treated of, 'twill beſt ſpeak for it ſelf, but do crave Pardon for the injury I have done it, by my unskilful Management; but as brighteſt Gold may be ſullied by the touch of an unclean Hand, tho' not at all deprived of its native worth, ſo I
+<pb facs="tcp:51888:3"/>cannot by what I have done, detract from the innate Value of this ineſtimable Jewel, Fiſhery</p>
+            <p>I could have wiſht that ſome more able had un<g ref="char:EOLhyphen"/>dertaken this Deſign, that could have charmed your Ears with Eloquence, that might have moved, tho' Self-intereſt and Security may be allowed pre<g ref="char:EOLhyphen"/>valent Motives; but as Eloquence is not my Ta<g ref="char:EOLhyphen"/>lent, ſo it was not my Deſign, but Truth and Plainneſs, wherein I have no other Aim but to pro<g ref="char:EOLhyphen"/>mote the publicly Good to my Power, by contri<g ref="char:EOLhyphen"/>buting my poor Mite, nor do I ask Reward or Pa<g ref="char:EOLhyphen"/>tronage, but with the Learned <hi>Verulam</hi> conclude, <hi>That nothing can be worthy of a Patronage that has not Truth to Patronize it ſelf.</hi>
+            </p>
+            <p>I have more than once, with great regret, be<g ref="char:EOLhyphen"/>yond Seas heard in Converſion, when ſpeaking of the excellency of one Conſtitution, and Parlia<g ref="char:EOLhyphen"/>mentary Power, they have wittily, as they thought, in way of Raillery, reply'd, and with a ſeeming Pleaſure, that there were more than one thing the Parliament of <hi>England</hi> could not do, and that was to raiſe a Fiſhery. I thought the Aſſertion too bold, but the Reaſon they gave, was becauſe they had not done it after they declared it to be for the Honour, Advantage, and Safety of the Nation; tho' it can't be deny'd but with the high<g ref="char:EOLhyphen"/>eſt
+<pb facs="tcp:51888:3"/>Concern, 'tis too true, that hitherto it has not been done, or attempted to any Purpoſe; yet there is nothing more certain than that it is in the Power and Wiſdom of an <hi>Engliſh</hi> Parliament to effect this great Work, and con<g ref="char:EOLhyphen"/>vince the World of the Errour, when God ſhall pleaſe to put it in their Hearts to do it, which is with longing Deſire earneſtly expected by all true Lovers of their Countries good, and 'tis hoped that this Eſſay may ſtir up and animate ſome of our worthy Patriots to proſecute ſo honourable and advantageous a Deſign, that on this Baſis may be erected a ſuper Structure for the publick Wellfare, and Glory of God, that Fate ſhall not be able to ſhock.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:51888:4"/>
+            <pb n="1" facs="tcp:51888:4"/>
+            <head>AN ESSAY FOR THE RAISING A <hi>National Fiſhery.</hi>
+            </head>
+            <head>The following Diſcourſe is Grounded on theſe two Principles, <hi>viz.</hi>
+            </head>
+            <p>THAT the Trade of <hi>England</hi> Improved. And the well Employing the Poor, are the two main Pillars, on which the Welfare and Security of this Nation (under God) Depends.</p>
+            <p>The Poor of this Kingdom may be conſidered in theſe Four Capacities.</p>
+            <p n="1">I. As Trades Men, and Artificers, who either being too Numerous, cannot get Employment, or by decay of Trade have loſt it; or not having Stock ſufficient of their own to Work, nor Credit to procure it, they are rendered Poor and Neceſſitous by an inevitable Fate. Or they are ſuch who
+<pb n="2" facs="tcp:51888:5"/>by Ill-husbandry, Loſſes, or both; or being thrown in to Pri<g ref="char:EOLhyphen"/>ſon, by Mercileſs and Inhuman Creditors, are brought to the greateſt Extremities, whilſt their Wives and Children become a Pariſh Charge. This is the too Deplorable State and Condition of many Thouſand Families, That loudly Cry for Relief.</p>
+            <p n="2">
+               <hi>IIly.</hi> As Poor Husband-men and Day-labourers, who con<g ref="char:EOLhyphen"/>tinualy Increaſe in far greater proportion than Labour to Employ them; and muſt to ſupport Life neceſſarily be com<g ref="char:EOLhyphen"/>pelled to Beg or Steal, if not worſe.</p>
+            <p n="3">
+               <hi>IIIly.</hi> As common ſturdy Beggars, and wandering Vaga<g ref="char:EOLhyphen"/>bonds, Men, Women and Children, who daily Increaſe and Croud the Streets; of theſe the greateſt part never did Work, nor ever will if they can avoyd it: and when by Begging they can't obtain Relief to their Deſire, they will not ſcruple to Murder, Rob, or commit any other Violence to attain if.</p>
+            <p n="4">
+               <hi>IVly.</hi> As Aged, Decrepit, Lame, Blind, Dement<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red, <hi>&amp;c.</hi> In a Chriſtian Common-wealth, the Law of God, of Nati<g ref="char:EOLhyphen"/>ons, and of Nature, <hi>viz.</hi> ſelf Preſervation does require that all theſe Poor ſhould be taken Care of, and provided for by the Publick: Of which kind the two firſt would Work if they had it. And the third ſort, (as his Majeſty was Graciouſly pleaſed to mention in his Speech to both Houſes of Par<g ref="char:EOLhyphen"/>liament) ought by compulſion to be brought to it. The fourth kind are no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>capable to Work themſelves, and muſt be kept without it.</p>
+            <p>The grand difficulty now will be how to find means to Im<g ref="char:EOLhyphen"/>ploy theſe Poor, ſo, as they may become uſeful to the Pub<g ref="char:EOLhyphen"/>lick, by inableing them to maintain themſelves, and be no longer a burden to the Publick and Diſhonour to the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>The Building of Work-houſes, 'tis preſumed will not reach that End, for there are many already Built about this Town Unimploy'd and Decay'd, and others that are Employ'd, but to wrong purpoſes, and ſerve only to enrich thoſe Officers belonging to them; as Bride-well and many others, that ſeem
+<pb n="3" facs="tcp:51888:5"/>not in any reſpect to anſwer the end of their Inſtitutions as well as many other Hoſpitals, the Poor having little benefit from thence<g ref="char:punc">▪</g> and granting that many more Work-houſes were erected, what Work would they do in them? Beating Hemp will ſcarce keep them from Starving. If they Card or Spin Wool, they In<g ref="char:EOLhyphen"/>terfere with thoſe of the Woolen Manufacture, and injure them who from Children have Earned their Bread by thoſe Labours, who now for want of Employment (ſome thouſands) are ready to Starve, which by the Addition of ſo many more Hands will only make them juſt ſo much worſe than they are already; for tis not want of Hands the Woolen Manufacture ſtands in need of; but of Work to Employ thoſe Hands they al<g ref="char:EOLhyphen"/>ready have: And with Submiſſion it may be thought as good Policy, to Inſtruct Beggars to Plow, Sow, Reap, <hi>&amp;c.</hi> and then Employ them to the prejudice of thoſe Induſtrious and Neceſſary Husband-men we have already.</p>
+            <p>Therefore ſome other way muſt be found out, or at leaſt attempted, that ſhall Employ, and furniſh with Food and Neceſſaries, all the ſuperfluous Hands of Poor and Neceſſi<g ref="char:EOLhyphen"/>tous Trades men, Husband-men, Labourers, Beggars, Vaga<g ref="char:EOLhyphen"/>bonds, <hi>&amp;c.</hi> to be an <hi>Aſylum</hi> for all the Diſtreſſed to fly to for Releif, without infringing, or interfering on the painful Huſ<g ref="char:EOLhyphen"/>band-men's Labour, or with the Woolen Manufacture, or any others which would prove a deſperate Wound inſtead of a Cure; which muſt be effected by an other method, if ever attain'd.</p>
+            <p>Among the Various Methods that poſſibly may be thought on or propoſed, (with humble Submiſſion 'tis believed) there can be but one ſound, that will in all reſpects effectually an<g ref="char:EOLhyphen"/>ſwer this great End, which is not of Humane Invention, but by the providence of God is put into our Hands, if we would lift them to our Mouths; tho' for our Ingratitude to Heaven, our ſtuborn Blindneſs, Sloth and Idleneſs, we are unworthy of ſo great and peculiar a Bleſſing we might enjoy, above many others, that is, the FISHING TRADE.</p>
+            <p>I ſhall not here Illuſtrate on the many Advantages (be<g ref="char:EOLhyphen"/>ſides Maintainance of the Poor) 'twould be to this King<g ref="char:EOLhyphen"/>dom, nor mention the Diſadvantages the loſs of that Trade
+<pb n="4" facs="tcp:51888:6"/>has brought on us, they are too obvious already, and are both Univerſally known and acknowledged. But how to put this great Deſign ſucceſsfully in Practice, remains as yet the Myſtery.</p>
+            <p>To the Explicating of which, I humbly offer the fol<g ref="char:EOLhyphen"/>lowing Propoſitions or Suppoſitions.</p>
+            <p>
+               <hi>First,</hi> That <hi>Engliſh</hi> Men being furniſhed with Buſſes and Nets, will be allowed as capable to catch Fiſh, and eat them, without any Hardſhip, as well as the <hi>Hollanders</hi> or any other Nation, and in many reſpects we have naturally the advantage of them, or any other People, for the Trade and Buſineſs.</p>
+            <p>
+               <hi>Secondly,</hi> That thoſe <hi>Engliſh</hi> Men that have not where<g ref="char:EOLhyphen"/>with to buy Meat, the Caſe of too many poor honeſt working Families in this Town, would think it a happi<g ref="char:EOLhyphen"/>neſs to be fed with wholeſome Fiſh, Bread and Roots, which, without Offence, was the Diet of thoſe Worthies, the Founders of <hi>Amſterdam, Venice,</hi> and of our own <hi>London,</hi> and of moſt other Flouriſhing and Trading Towns in the World.</p>
+            <p>
+               <hi>Thirdly,</hi> 'Twill be likewiſe granted, that Men being now furniſh't with Buſſes, Nets, and other Neceſſarys for Fiſh<g ref="char:EOLhyphen"/>ing, under a due regulation at a Publick Charge, have the ſame means to Live, the ſame Tools to Work with for the ſupport of themſelves and Families, as our fore Fathers had, tho' on much better and eaſier Terms, and may without doubt live and thrive as well as they did, under greater Difficulties, and this without any Fiſh Tranſported (if that were neceſſary) for Fiſh at Home will either But or Barter, for Bread, Meat, Cloths, Fire and all other Neceſſaries.</p>
+            <p>
+               <hi>Fourthly,</hi> That naturaly there are but three ways for all Mankind to get a living, which are either Planting and Sow<g ref="char:EOLhyphen"/>ing the Fruits of the Earth; hunting wild Beaſts, or de<g ref="char:EOLhyphen"/>vouring one another, or catching Fiſh, 'tis preſumed the third king only can be applicable to this Matter, for in the firſt
+<pb n="5" facs="tcp:51888:6"/>Peopling of all Collonies, there firſt care muſt be to clear the Ground of Trees to plant Food for their own Suſte<g ref="char:EOLhyphen"/>nance, before they can arrive to greater things, ſo originally in the firſt Planting of Fiſhing Collonies, they were begun by only Fiſhing for Food, and raiſed by their redundan<g ref="char:EOLhyphen"/>cy, who by furniſhing others that wanted, had in Exchange or Barter all other Neceſſaries firſt, afterwards all manner of Superfluities, till in time they acquiring great Riches, Dignities, and Dominions.</p>
+            <p>This is the natural Riſe, Progreſs, and ultimate of all Fiſheries, and probably as they were all thus raiſed by degrees, there may be no other means poſſible to revive and raiſe our loſt and decay'd Fiſhery, but by the ſame means.</p>
+            <p>'Tis a Subject of the greateſt wonder to Foreigners, and Shame and Indignity to our ſelves, that <hi>Engliſh</hi> Men can Beg, or want Work, who may have Fiſh for catching, Roots and Pulſe for Planting, Cloths for Spinning, <hi>&amp;c.</hi> yet this is too eaſily anſwered, they can't do this without Tools, not purchaſe them without Money, nor be employ'd by thoſe that have both.</p>
+            <p>'Tis farther preſumed, that wholſome Food, warm Cloths, and Huts to ſecure from Cold and Weather, are all the Poor ſtand in need of.</p>
+            <p>There Women and Children may be Employ'd in Knitting Nets, Spinning Thread, <hi>&amp;c.</hi> whilſt the Men are Fiſhing, Car<g ref="char:EOLhyphen"/>rying and Recarrying. Sir <hi>Walter Raleigh</hi> affirming that every Fiſhing Ship ſets to work Thirty ſeveral Trades and Occupa<g ref="char:EOLhyphen"/>tions, and eight Thouſand Perſons by Sea and Land, and that three hundred Perſons are no able to make one Fleet of Nets in four Months for one Buſs.</p>
+            <p>That to allure them to Induſtry and a regular Life, among this new Common-wealth of Fiſhers, they ſhould be incourag<g ref="char:EOLhyphen"/>ed to Marry among themſelves, and be endowed with ſome Privileges and Immunities, the more they multiply the greater the Bleſſing, for they can never want Food and Neceſſaries till they have drained the Sea of Fiſh. This would prevent the
+<pb n="6" facs="tcp:51888:7"/>Murder of many poor Infants, and check the many Robberies and Murders that are daily committed, and would re-people the Sea Coaſt round the Kingdom, repair all our old decay'd Fiſh<g ref="char:EOLhyphen"/>ing Towns, and build many new ones; and asking Pardon for the Expreſſion, do affirm, that a Wall of <hi>Fiſhing-Nets</hi> round <hi>England,</hi> would be a much better Defence and Security to the Nation, than Fryer <hi>Bacon</hi>'s Brazen Wall would have been, could his Art have done it.</p>
+            <p>It remains now to ſhew how this great and glorious Work may be put in Practice, ſo as ſuccesfully to accom<g ref="char:EOLhyphen"/>pliſh this great End without Tax, or additional Expence to the Publick, which 'tis preſumed will make it worth the Trial, and this to be done by a right application of the Poors Revenue, which heitherto hath been wrongly diſpoſed of, and to litttle purpoſe, either for the common Good, or comfort of the Poor.</p>
+            <p>The due Care, Government, and Management of the Poor, is the great concern of the Publick and its Mini<g ref="char:EOLhyphen"/>ſters and Magiſtrates, are not without great reaſon Stilled the Fathers of the Poor, to put them in mind that they ſhould cheriſh and nouriſh them as Children, for how Paradoxi<g ref="char:EOLhyphen"/>cal ſoever it may ſeem, the Hands of the Poor are the true and real Riches, Strength, Security and Bleſſing of a Kingdom, when rightly employ'd, and the Bain, Curſe, Plague and Ruine of a Nation, when idle of themſelves, or maintained ſo, or which is Equivolent, employ'd to no purpoſe.</p>
+            <p>To come cloſer to the Matter: The yearly revenue of the Poor is Eſtimated at about 800000 <hi>l.</hi> and probably if it were nicely enquired into may be found a Million; now ſuppoſing this great Revenue be paid yearly for the future, as it has been for many Years paſt, and is ſtill growing; and if not prevented muſt encreaſe for ever, and that this Money be employ'd to the Poors uſe as now, 'twould be well worth knowing what good 'twould do them, or what Benefit either poor or Publick would receive in propor<g ref="char:EOLhyphen"/>tion to ſuch a maſs of Treaſure raiſed and buried, without any viſible appearance of publick Good, nor the tenth part of
+<pb n="7" facs="tcp:51888:7"/>the Poor provided for. Now if to accompliſh this glorious Enterprize of raiſing and eſtabliſhing a Fiſhery on an im<g ref="char:EOLhyphen"/>moveable and ſolid Baſis; there were required, 20, 30, 40, or a 100 Years, and that the yearly income of the Poor for that time were required to do it, that is, 20, 30, 40, or a 100 Millions, if the end I ſay were then attained, tho' on theſe Terms (if not to be effected otherwiſe) 'twill, I doubt not, be allowed the Money was well imployed and diſpoſed of to good purpoſe; ſince 'tworld for the future free them or their Poſterity from the burden and charge of the Poor, without the addition of any new Tax for their relief, and the Money would circulate among the Handicraft and Trad<g ref="char:EOLhyphen"/>ing People, to the great improvement of the Woollen Ma<g ref="char:EOLhyphen"/>nufacture, and others, and would beſides raiſe ſome Hundred Thouſand Seafaring Mon, and repeople the Sea Coaſts and Fiſhing Towns, <hi>&amp;c.</hi> whereas in the uſual Courſe this Mo<g ref="char:EOLhyphen"/>ney is now imploy'd, it ſcarce ſerves to buy Food for half tis given to, and the reſt are left to ſhift for it as they can get it.</p>
+            <p>If then, as aforeſaid, a Fiſhery tho' obtained in ſo long time, and at ſo great expence, would be well worth the attaining, how much more then, ought thoſe generous offers to be embrac'd, that fairly lays down a demonſtrative Me<g ref="char:EOLhyphen"/>thod, that ſhall in five Years and leſs, raiſe and eſtabliſh an everlaſting Fiſhery to maintain all the Poor, and growing Poor for ever, by their own Labour, and to become a Bullwark and Defence of this Kingdom, by raiſing ſo many thouſand Seafaring Men, improving Navigation and all Trades, and Ma<g ref="char:EOLhyphen"/>nufacturies, and making this Nation the moſt Rich, Potent and Flouriſhing Kingdom on Earth.</p>
+            <p>A Draught or Scheme of the Deſign in general Terms is thus Propoſed; with ſubmiſſion to better Judgments.</p>
+            <p>That a Million Credit be raiſed on the Revenue of the poor, to be paid in two Years, which can be no difficulty to do, ſince the Fund and Security is as good as any in <hi>England,</hi> and well diſpoſed Perſons on ſuch an Occaſion, will be contented with moderate Intereſt, and poſſibly the Bank of <hi>England</hi> may to promote ſo pious and honourable
+<pb n="8" facs="tcp:51888:8"/>a Deſign ſignalize themſelves on ſuch an Occaſion, there be<g ref="char:EOLhyphen"/>ing no neceſſity to draw the Money all at once, but as 'tis diſpoſed of.</p>
+            <p>That 200000 <hi>l.</hi> of this Money be appointed to build a thouſand Buſſes and Boats., at 200 <hi>l.</hi> per Buſs.</p>
+            <p>That 200000 <hi>l.</hi> more be employed for Hemp or Thred for Nets, and what other Materials relate and their fiſhing Tackle.</p>
+            <p>That 200000 <hi>l.</hi> be appropriated to Cloath a Hundred thouſand poor Men and Women able to Work, with their Children at 2 <hi>l.</hi> per Man.</p>
+            <p>That 100000 <hi>l.</hi> be deſign'd for Conveniencies for them to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e on, <hi>&amp;c.</hi>
+            </p>
+            <p>That 100000 <hi>l.</hi> more be apply'd to build Chappels, Ware<g ref="char:EOLhyphen"/>houſes to ſtore their Corn and Fiſh in, and for Cask, <hi>&amp;c.</hi>
+            </p>
+            <p>That a 100000 <hi>l.</hi> be laid out for Corn, and for Salt to cure their Herrings.</p>
+            <p>That the 100000 <hi>l.</hi> remaining, be appropriated to Fiſher<g ref="char:EOLhyphen"/>men, the Maſters of Buſſes and Mates, who are to inſtruct them, and to Clergy-men, Clerks, Warehouſe Keepers, Coop<g ref="char:EOLhyphen"/>ers, and all other Officers there ſhall be need of, for the due and regular Execution of this great Undertaking.</p>
+            <p>That theſe 100000 Poor be diſperſt into a 100 ſeveral places round the Coaſt, a thouſand in a place, to be firſt planted in and about the decay'd Fiſhing Towns, which will occupy a far greater number.</p>
+            <p>There will be ten Buſſes to every new Fiſhing Settlement, and to each Buſs there is at preſent aſſign'd but a 100 poor beſides Children, tho' 'twould maintain more than a 1000 well imploy'd.</p>
+            <p>That thoſe Hundred Poor belonging to each Buſs, Men and Women, become bound for five Years, the Men and Boys to the Maſters of Buſſes, to inſtruct them in the Art of Fiſhing, and the Women and Girls to thoſe that ſhall inſtruct them to Spin Thread, and Knit Nets, <hi>&amp;c.</hi>
+            </p>
+            <p>The Boys and Girls to be bound for a longer time, the Ma<g ref="char:EOLhyphen"/>ſters being paid for their Service, to lie under no Obligation to furniſh them with Cloths, Meat or other Neceſſaries, but only to inſtruct them how to Fiſh; and being thus ſet out and fur<g ref="char:EOLhyphen"/>niſh't
+<pb n="9" facs="tcp:51888:8"/>with Materials, 'tis preſumed there will be no danger of their Starving, and no doubt will find themſelves with Drink, and be able to do ſomething more than keep themſelves in a very little time.</p>
+            <p>The five Years Service expired, beſides their Food, to be allowed ſome Pay for their Labour, out of the Profits of the Fiſhery.</p>
+            <p>That they be Fed four Days in a Week, with Bread, wholſome Fiſh, either Freſh or Salt, with Roots, as Tur<g ref="char:EOLhyphen"/>nips, Carrots, Parſnips, Potatoes, <hi>&amp;c.</hi> And the other three Days, with Meat, either Beef, or Pork, with Peaſe or Roots: That it be no longer an Injunction on them, to eat Fiſh four Days in a Week, than till they have raiſed ſufficient Stock to purchaſe Fleſh, and reduce their Fiſh Days to twice a Week.</p>
+            <p>That all Aged and Decrepit Poor, <hi>&amp;c.</hi> Unable to Work, be confined to their own Pariſhes, (the greateſt part being in <hi>London</hi>) and not ſuffered to Beg, but that Proviſion of Red and Pickled Herrings be ſent from the Fiſheries, to their reſpective Pariſh-Officers, either to diſpoſe of to them, or for them, for other Proviſions, according to an exact account of their Numbers, which, together with the Col<g ref="char:EOLhyphen"/>lection of Broken Meats by the Poor in Baskets, in their ſeveral Pariſhes and diſtributed, will abundantly Maintain them better than now they are.</p>
+            <p>That no Perſon be permitted to Beg, or any ſuffered to Relieve them in the Streets, but if found there, to be ſent to one or other of the Fiſhing-Collonies to Work if able, if not, to their own Pariſh, that they, and all other Poor that voluntarily come, be provided with Food, firſt for Work, and afterwards with Clothes when they have Earned them.</p>
+            <p>That in one Year this Deſign may be compleatly put in Practice, all the Buſſes, Ware-houſes, and Chappels Built, and Nets made, and the Poor immediately ſet to Work, for the Money taken up on Credit, not being Payable till
+<pb n="10" facs="tcp:51888:9"/>two Years end, the Poor will have the ſame Proviſion for this Year, as uſual to Maintain them whilſt they are Knit<g ref="char:EOLhyphen"/>ing Nets, <hi>&amp;c.</hi> and till the Fiſhery be actually ſet to Work, which may be done in part, the next Herring-Seaſon, if from <hi>Lady-Day</hi> they ſhould commence.</p>
+            <p>What hitherto has been ſaid, has only Deſigned the ca<g ref="char:EOLhyphen"/>pacitating the Poor to Maintain themſelves, but now 'tis time to ſpeak what farther may be done by them, to the great encreaſe of the Publick Treaſure, and promotion of Trade in general.</p>
+            <p>
+               <hi>First,</hi> That the Buſineſs of this Publick-Fiſhery, be only the Herring and Pilchard Fiſhing; and not permitted to Sell any of them at home, to prejudice thoſe Induſtrious and Labourious Fiſher-men we have already, who otherwiſe would be Ruined by this Deſign,</p>
+            <p n="2">2. That they intermeddle not with the <hi>New-found-land</hi> nor Whale-Fiſhing, to the Detriment of thoſe Fiſhers and Merchants that uſe thoſe Trades, but be only employed in Fiſhing on our own Coaſts, provided the Merchants be not too ſlack on theſe Encouragements to Proſecute thoſe Trades; or Whale and Cod-Fiſhing may be the Buſineſs of the Royal-Fiſhery.</p>
+            <p n="3">3. That great Care be taken, by diligent Inſpection, that the Fiſh be Caught when beſt in Seaſon only; and that none but ſweet and good Herrings be Cured, and that after the beſt manner, and all made Good and Merchantable Ware.</p>
+            <p n="4">4. That the Poor being firſt ſerved, what remains to be expoſed to Sale, and for the Encouragement of Merchants, to export them beyond Seas, to be Sold at very reaſonable Rates, or Bartered for Hemp, Salt, Corn, <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. That all Profits ariſing above the Poors Proviſion, be the publick Treaſure, and applicable as ſhall be appointed by Parliament, which if they are pleaſed, may be aſſigned for the Planting of Timber, ſo much wanted in <hi>England;</hi>
+               <pb n="11" facs="tcp:51888:9"/>or the Rebuilding <hi>White-Hall,</hi> and to make it the moſt State<g ref="char:EOLhyphen"/>ly and Magnificent Palace in the World in five Years time, and that without any Tax.</p>
+            <p n="6">6. That the <hi>Engliſh</hi> Red-Herrings are the Beſt in the World, and a good Commodity in all Places.</p>
+            <p n="7">7. That for a farther Encouragement of this Fiſhery, and to promote Trade, if it ſhould pleaſe the Parliament to lay a Reſtriction on the <hi>Iriſh</hi> Fiſhing, that is, on their Herring and Pilchard Fiſhing only; for we ought to be rather more jealous, and careful to prevent the growth of A Fiſhery any where to our Power, than of the Woolen Manufacture, becauſe one will ſecure the other. That by this means great quantities of Herrings would be Tranſported to <hi>Ireland,</hi> and in return, they might bring Tallow, Hides, Corn, <hi>&amp;c.</hi> but principally Wool, which would greatly improve the Woolen Manufacture, for the fundamental Cauſe of the decay of that great Trade, is the very ſame by which the Fiſhery is loſt and ruined; that is, Forelgners ſell Fiſh better Cheap than we can, which is the true Reaſon of the loſs of that Trade, and 'tis to be feared, if not prevented, their ſlight making and dreſſing their Cloth, their exceſſive Straining and Rack<g ref="char:EOLhyphen"/>ing to lengthen it, and many other Knaviſh Practices in that Trade, more than formerly, may in time bring it to the fame Fate, Foreigners being diſcouraged to Buy it, not dar<g ref="char:EOLhyphen"/>ing to truſt them, have put them on Invention to make better themſelves, and Sell Cheaper, notwithſtanding they have the greateſt part of the Wool from honce.</p>
+            <p>Therefore, unleſs Care be taken that Cloth be well and truly made, without Deceit, and by plenty of Wool made Cheaper, it ſeems very unlikely for them ever to retrieve their almoſt loſt Trade, for they cannot leſſen the Price of Mens Labour to do it, that being but ſufficient when em<g ref="char:EOLhyphen"/>ployed to maintain them.</p>
+            <p n="8">8 That if the Merchants ſlight and neglect the Benefit of Buying up the Poors Herrings, being Good and Merchant<g ref="char:EOLhyphen"/>able Ware, and to Tranſport them to all parts of the World, where ever any were carried, and to our own Plantations, <hi>&amp;c.</hi> and in return, to bring Salt, <hi>&amp;c.</hi> that then they be ſent by Veſſels of their own, and diſpoſed of for the beſt advantage for the Publick; for no People on Earth can under-ſel or foreſtal us in any Market, for we have the
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:51888:10"/>nothing, as all attempts of this kind hitherto has done, and ever will till they attain the Art to catch Fiſh without Money, and ſell them for nothing, when they pleaſe, which ſeems a Paradox, yet is a real Truth. For 'tis catching Fiſh without Money, in regard there's no more Money paid for the raiſing this Fiſhery, than would be if it were let alone, nor any one compell'd to Fiſh that has any thing elſe to do, nor to eat them but ſuch as have not wherewith to buy Meat, and if thoſe won't catch Fiſh when they may, and eat them when they have done, e'en let them ſtarve a Gods Name. The Poors Revenue is a kind of Rent-Charge, claim'd by Cuſtome, and paid time out of Mind, or a Debt intail'd on the Publick from Generation to Generation as a reward of Folly, ill Husbandry and Indiſ<g ref="char:EOLhyphen"/>cretion on one ſide, and of Lazineſs, Idleneſs, and ſtarving Beggary on the other.</p>
+            <p>To conclude, the letting the Poor into any Manufactury that have not been brought up to it, muſt be of pernicious Conſequence to the Publick, by injuring others whoſe Buſineſs 'tis already, and are in want of employ, for the multiplying of Hands to Work will be found but an odd Improvement, unleſs the Conſumption be made much greater, for 'tis taking Bread from thoſe that have it, and giving it to Beggars, or the in<g ref="char:EOLhyphen"/>creaſe of Beggars in one place to ſet them to work at another, and would ſtill encreaſe Poverty <hi>ad Infinitum,</hi> but of the great Riches, Strength, and many Benefits a Fiſhery would bring to Rich and Poor there's ſcarcely any</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>THAT this Eſſay being committed to the Preſs, and the greateſt part Compoſed, before the Order or the Honourable Houſe of Commons, <hi>Lunae</hi> 11. <hi>Martii</hi> 1699. relating to the <hi>Royal Fiſhery:</hi>
+            </p>
+            <p>The Author deſires to be excuſed for ſome Expreſſions therein that may now ſeem Superfluous.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 2. l. 2. read <hi>A Fiſhery.</hi> the ſame page l. 17. for <hi>one</hi> read <hi>our.</hi> page 3. l. 6. for <hi>the</hi> read <hi>that.</hi>
+            </p>
+            <pb facs="tcp:51888:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
